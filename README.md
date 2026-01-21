@@ -40,4 +40,4 @@ The game helps improve memory and concentration by challenging users to remember
 - Understanding of DOM manipulation  
 - Use of event listeners in JavaScript  
 - Improved logic-building skills  
-- Experience in building interactive web applications  
+- Experience in building interactive web applications
